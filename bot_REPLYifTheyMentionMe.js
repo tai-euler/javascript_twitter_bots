@@ -39,7 +39,7 @@ function tweetEvent(eventMsg) {
             var from = eventMsg.user.screen_name;
 
             // to see who sent the tweet to me
-            console.log(replyto + '  ' + from');
+            console.log(replyto + '  ' + from);
 
              // i just reply, if tweet is meant to
              // me(twitter username)
