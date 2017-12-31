@@ -1,4 +1,7 @@
 console.log("Twitter bot started for POST requests with setInterval() ! \n ");
+/* credits goes to Daniel Schiffman (Daniel Shiffman works as an Assistant Arts Professor at the 
+Interactive Telecommunications Program at NYU’s Tisch School of the Arts)
+*/
 
 /*you can publish THIS 'bot.js' source code and hide config file with acces tokens*/
 var config = require('./config');  // takes acces tokens from file 'config.js' file
